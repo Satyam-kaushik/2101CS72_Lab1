@@ -8,6 +8,7 @@ int main()
 
    printf("The sum of two numbers is %f\n",a+b);
    printf("The differnce of two numbers is %f\n",a-b);
+   printf("The multiplication of two numbers is %f\n",a*b);
 
         return 0;
     }
